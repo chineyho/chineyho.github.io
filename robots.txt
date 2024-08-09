@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chineyho.github.io/sitemap.html.gz
+Sitemap: https://chineyho.github.io/app/sitemap.html.gz
+Sitemap: https://chineyho.github.io/assets/sitemap.html.gz
+Sitemap: https://chineyho.github.io/css/sitemap.html.gz
+Sitemap: https://chineyho.github.io/includes/sitemap.html.gz
+Sitemap: https://chineyho.github.io/item/sitemap.html.gz
+Sitemap: https://chineyho.github.io/src/sitemap.html.gz
